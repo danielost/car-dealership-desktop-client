@@ -1,0 +1,464 @@
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.pdb
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.Cars.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.CarThumbnail.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.Utils.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.AuthForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.Main.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.AddCarForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.CarInfoForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\EnvDTE.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\stdole.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.SignUpForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.EditCarForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.BodiesChartForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.ProfitChartForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.UnluckyCarMakesChart.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.GenderChartForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.RecordForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\itextsharp.dll
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\bin\Debug\itextsharp.xml
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.OrderPlaceForm.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.Profile.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.PassApprove.resources
+C:\Users\Daniel\Desktop\2 курс\1 семестр\Базы данных\course_work\course_work\course_work\obj\Debug\course_work.OrderedCars.resources
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.Utils.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\itextsharp.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\EnvDTE.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\stdole.dll
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\itextsharp.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Daniel\Desktop\course_work\course_work\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.AddCarForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.AuthForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.CarInfoForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.Cars.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.CarThumbnail.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.BodiesChartForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.EditCarForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.GenderChartForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.Main.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.OrderedCars.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.OrderPlaceForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.PassApprove.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.Profile.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.ProfitChartForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.RecordForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.SignUpForm.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.UnluckyCarMakesChart.resources
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\Daniel\Desktop\course_work\course_work\obj\Debug\course_work.pdb
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.Utils.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\itextsharp.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\EnvDTE.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\stdole.dll
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\itextsharp.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.AddCarForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.AuthForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.CarInfoForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.Cars.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.CarThumbnail.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.BodiesChartForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.EditCarForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.GenderChartForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.Main.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.OrderedCars.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.OrderPlaceForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.PassApprove.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.Profile.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.ProfitChartForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.RecordForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.SignUpForm.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.UnluckyCarMakesChart.resources
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.pdb
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\2 course\course_work\course_work\obj\Debug\course_work.HelpForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\course_work.exe.config
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\course_work.exe
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\course_work.pdb
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.Utils.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\itextsharp.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\EnvDTE.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\stdole.dll
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\itextsharp.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.csproj.AssemblyReference.cache
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.AddCarForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.AuthForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.CarInfoForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.Cars.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.CarThumbnail.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.BodiesChartForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.EditCarForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.GenderChartForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.HelpForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.Main.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.OrderedCars.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.OrderPlaceForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.PassApprove.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.Profile.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.ProfitChartForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.RecordForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.SignUpForm.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.UnluckyCarMakesChart.resources
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.csproj.GenerateResource.cache
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.csproj.CopyComplete
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.exe
+C:\Users\Daniel\Dropbox\PC\Documents\BA_PZPI-20-5\2 course\3 Term\course_work\course_work\obj\Debug\course_work.pdb
